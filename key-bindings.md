@@ -13,3 +13,5 @@
 - select all -> alt+a
 
 - move line up -> ctrl+up
+
+- move line down -> ctrl+down
