@@ -7,3 +7,5 @@
 - shrink selection -> alt+shift+k
 
 - swap selection boundaries -> alt+shift+o
+
+- alt+a alt+o 尚未使用
