@@ -8,4 +8,4 @@
 
 - swap selection boundaries -> alt+shift+o
 
-- alt+a alt+o 尚未使用
+- scroll to center -> alt+o
