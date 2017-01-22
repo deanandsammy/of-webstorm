@@ -9,3 +9,5 @@
 - swap selection boundaries -> alt+shift+o
 
 - scroll to center -> alt+o
+
+- select all -> alt+a
