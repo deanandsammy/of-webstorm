@@ -11,3 +11,5 @@
 - scroll to center -> alt+o
 
 - select all -> alt+a
+
+- move line up -> ctrl+up
