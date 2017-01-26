@@ -15,3 +15,5 @@
 - move line up -> ctrl+up
 
 - move line down -> ctrl+down
+
+- move caret to matchting brace alt+o
