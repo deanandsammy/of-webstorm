@@ -2,4 +2,4 @@
 
 关于 webstorm
 
-[img](www.baidu.com)
+![img](https://github.com/elegantspirit/of-webstorm/blob/master/assets/webstorm.png)
