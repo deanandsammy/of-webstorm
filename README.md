@@ -6,4 +6,4 @@ some useful things about webstorm
 
 ## getting started
 
-- [Webstorm](http://www.jetbrains.com/webstorm/) - if you haven't even install webstorm yet, you can download it here
+- [Webstorm](http://www.jetbrains.com/webstorm/) - if you haven't even installed webstorm yet, you can download it here
