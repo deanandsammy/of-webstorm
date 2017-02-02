@@ -1,13 +1,7 @@
-- add selection for next occurrence -> alt+j
-
-- unselect occurrence -> alt+shift+j
-
-
 - extend selection -> alt+shift+e
-
 - shrink selection -> alt+shift+k
 
-
+- move caret to matching brace -> alt+o
 - swap selection boundaries -> alt+shift+o
 
 - scroll up and move if necessary -> alt+,
@@ -18,8 +12,17 @@
 - cut -> alt+x
 - copy -> alt+c
 - paste -> alt+v
+- undo -> alt+i
 
 - move line up -> ctrl+up
 - move line down -> ctrl+down
 
 - move caret to matchting brace alt+o
+- delete line -> alt+k
+- delete to word start -> alt+h
+- move caret to previous word -> alt+w
+- move caret to next word -> alt+n
+- start new line -> alt+m
+- start new line before current -> alt+f
+- add selection for next occurrence -> alt+j
+- unselect occurrence -> alt+shift+j
