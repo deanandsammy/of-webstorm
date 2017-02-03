@@ -17,9 +17,15 @@
 - delete to word start -> alt+h
 - move caret to previous word -> alt+w
 - move caret to next word -> alt+n
+- move caret to previous word with selction -> alt+y
+- move caret to next word with selection -> alt+t
 - start new line -> alt+m
 - start new line before current -> alt+f
 - add selection for next occurrence -> alt+j
 - unselect occurrence -> alt+shift+j
-- move caret to code block start with selection -> alt+shift+,
-- move caret to code block end with selection -> alt+shift+.
+- move caret backward a paragraph -> alt+shift+,
+- move caret forward a paragraph -> alt+shift+.
+- clone caret above -> alt+[
+- clone caret below -> alt+]
+- up with selection -> alt+shift+u
+- down with selection -> alt+shift+d
