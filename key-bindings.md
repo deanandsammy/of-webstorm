@@ -21,3 +21,5 @@
 - start new line before current -> alt+f
 - add selection for next occurrence -> alt+j
 - unselect occurrence -> alt+shift+j
+- move caret to code block start with selection -> alt+shift+,
+- move caret to code block end with selection -> alt+shift+.
