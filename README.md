@@ -1,5 +1,7 @@
 # of-webstorm
+
 如何优雅的使用webstorm
+
 ![img](https://github.com/elegantspirit/of-webstorm/blob/master/assets/webstorm.png)
 
 ## getting started
