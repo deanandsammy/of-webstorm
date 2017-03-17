@@ -30,3 +30,4 @@
 - up with selection -> alt+shift+u
 - down with selection -> alt+shift+d
 - open in browser -> ctrl+alt+enter
+- reformat code -> alt+shift+h
